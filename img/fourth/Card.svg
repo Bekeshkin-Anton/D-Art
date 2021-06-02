@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="535.816" height="409.556" viewBox="0 0 535.816 409.556">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.233" x2="0.936" y2="0.893" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bb80fc"/>
+      <stop offset="1" stop-color="#d155d5"/>
+    </linearGradient>
+  </defs>
+  <g id="Card" transform="translate(-90.301 -2206.444)">
+    <g id="Сгруппировать_10" data-name="Сгруппировать 10" transform="translate(0 0.468)">
+      <path id="Контур_8" data-name="Контур 8" d="M112.664,5.8,297.526-7.468C370-7.468,497.177,16.15,497.177,68.175l12.94,149.959c0,52.025-33.275,96.876-146.041,118.11s-205.2,51.756-280.99,29.2S0,302.185,0,250.16L18.384,104.006C18.384,51.981,40.193,5.8,112.664,5.8Z" transform="translate(116 2235)" fill="#e5d3f9"/>
+      <path id="Контур_9" data-name="Контур 9" d="M107.3,5.171,283.359-7.468c69.02,0,190.144,22.494,190.144,72.041l12.324,142.819c0,49.548-31.691,92.263-139.087,112.486S151.314,369.169,79.129,347.683,0,287.44,0,237.893L17.509,98.7C17.509,49.15,38.279,5.171,107.3,5.171Z" transform="translate(116 2235)" fill="#f5f4f6"/>
+    </g>
+    <ellipse id="Эллипс_31" data-name="Эллипс 31" cx="10" cy="9.5" rx="10" ry="9.5" transform="translate(428 2246)" fill="#edebf9"/>
+    <ellipse id="Эллипс_32" data-name="Эллипс 32" cx="17" cy="16" rx="17" ry="16" transform="translate(470 2260)" fill="#e5d3f9"/>
+    <ellipse id="Эллипс_33" data-name="Эллипс 33" cx="17" cy="16" rx="17" ry="16" transform="translate(142 2512)" fill="#edebf9"/>
+    <ellipse id="Эллипс_34" data-name="Эллипс 34" cx="10.5" cy="10" rx="10.5" ry="10" transform="translate(192 2518)" fill="#dcd7f9"/>
+    <ellipse id="Эллипс_35" data-name="Эллипс 35" cx="8.5" cy="8" rx="8.5" ry="8" transform="translate(186 2544)" fill="#edebf9"/>
+    <ellipse id="Эллипс_36" data-name="Эллипс 36" cx="17" cy="16" rx="17" ry="16" transform="translate(541 2584)" fill="#edebf9"/>
+    <ellipse id="Эллипс_37" data-name="Эллипс 37" cx="10.5" cy="10" rx="10.5" ry="10" transform="translate(591 2564)" fill="#dcd7f9"/>
+    <ellipse id="Эллипс_38" data-name="Эллипс 38" cx="8.5" cy="8" rx="8.5" ry="8" transform="translate(470 2600)" fill="#e5d3f9"/>
+    <ellipse id="Эллипс_39" data-name="Эллипс 39" cx="17" cy="16" rx="17" ry="16" transform="translate(154.654 2237.205) rotate(164)" fill="#edebf9"/>
+    <ellipse id="Эллипс_40" data-name="Эллипс 40" cx="10.5" cy="10" rx="10.5" ry="10" transform="translate(116 2282.719) rotate(164)" fill="#dcd7f9"/>
+    <ellipse id="Эллипс_41" data-name="Эллипс 41" cx="8.5" cy="8" rx="8.5" ry="8" transform="translate(204.876 2222.846) rotate(164)" fill="#e5d3f9"/>
+    <g id="Сгруппировать_9" data-name="Сгруппировать 9" transform="translate(1 22)">
+      <g id="Сгруппировать_7" data-name="Сгруппировать 7" transform="translate(0 -17)">
+        <circle id="Эллипс_42" data-name="Эллипс 42" cx="37.5" cy="37.5" r="37.5" transform="translate(470 2437)" fill="url(#linear-gradient)"/>
+        <path id="Контур_10" data-name="Контур 10" d="M209.312,2444.983l13.694,10.76-13.694,11.493Z" transform="translate(291.688 18.017)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

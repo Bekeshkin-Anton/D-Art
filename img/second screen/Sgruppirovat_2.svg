@@ -1,0 +1,14 @@
+<svg width="257" height="257" version="1.1" viewBox="0 0 257 257" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <clipPath id="a">
+   <circle transform="translate(578 869)" cx="100" cy="100" r="100" fill="#fff" stroke="#707070" data-name="Эллипс 14"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-520 -797)" data-name="Сгруппировать 3">
+  <circle transform="translate(520 797)" cx="128.5" cy="128.5" r="128.5" fill="#edebf9" data-name="Эллипс 16"/>
+  <circle transform="translate(526 803)" cx="115" cy="115" r="115" fill="#e5d3f9" data-name="Эллипс 15"/>
+  <g transform="translate(-33 -47)" clip-path="url(#a)" data-name="Группа масок 2">
+   <image transform="translate(571 869)" width="207" height="207" xlink:href="img\second screen\Группа масок 2.png"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="563.079" height="421.248" viewBox="0 0 563.079 421.248">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Контур_1" data-name="Контур 1" d="M159.211-5.427c230.339-50.808,374.262,107.656,175.2,175.2S172.5,339.111,75.737,339.111-42.046,193.838-43.5,169.776-71.128,45.381,159.211-5.427Z" transform="translate(45.089 15.301)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <pattern id="pattern" width="1" height="1" patternTransform="matrix(-1, 0, 0, 1, 1281.597, 0)" viewBox="0 0 640.799 360.449">
+      <image preserveAspectRatio="none" width="640.799" height="360.449" xlink:href="%D0%A1%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%2013-image.png"/>
+    </pattern>
+  </defs>
+  <g id="Сгруппировать_13" data-name="Сгруппировать 13" transform="translate(-616.396 -146.897)">
+    <path id="Контур_3" data-name="Контур 3" d="M197.738-3.565c273.777-60.389,444.84,127.958,208.243,208.243S213.532,405.947,98.523,405.947-41.472,233.278-43.2,204.678-76.039,56.824,197.738-3.565Z" transform="translate(661.485 162.198)" fill="#c5bdeb" opacity="0.31"/>
+    <path id="Контур_2" data-name="Контур 2" d="M178.713-4.485C431.039-60.142,588.7,113.448,370.64,187.443s-177.371,185.5-283.37,185.5S-41.756,213.8-43.348,187.443-73.614,51.173,178.713-4.485Z" transform="translate(661.485 162.198)" fill="#d19ef8" opacity="0.31"/>
+    <g id="Группа_масок_1" data-name="Группа масок 1" transform="translate(616.396 146.897)" clip-path="url(#clip-path)">
+      <rect id="Изображение_1" data-name="Изображение 1" width="640.799" height="360.449" transform="translate(-116.099 -0.451)" opacity="0.9" fill="url(#pattern)"/>
+    </g>
+  </g>
+</svg>

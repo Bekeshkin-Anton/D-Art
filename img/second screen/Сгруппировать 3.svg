@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="257" height="257" viewBox="0 0 257 257">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Эллипс_14" data-name="Эллипс 14" cx="100" cy="100" r="100" transform="translate(578 869)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Сгруппировать_3" data-name="Сгруппировать 3" transform="translate(-520 -797)">
+    <circle id="Эллипс_16" data-name="Эллипс 16" cx="128.5" cy="128.5" r="128.5" transform="translate(520 797)" fill="#edebf9"/>
+    <circle id="Эллипс_15" data-name="Эллипс 15" cx="115" cy="115" r="115" transform="translate(526 803)" fill="#e5d3f9"/>
+    <g id="Группа_масок_2" data-name="Группа масок 2" transform="translate(-33 -47)" clip-path="url(#clip-path)">
+      <image id="artworks-YaUxHbZ5bxxvb6H5-qcvTAg-t500x500" width="207" height="207" transform="translate(571 869)" xlink:href="here"/>
+    </g>
+  </g>
+</svg>
