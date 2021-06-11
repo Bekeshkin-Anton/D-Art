@@ -4,7 +4,7 @@ const h = +svg.attributes['height'].value;
 
 
 let PI2 = Math.PI * 2;
-let bubbles = Array(13)
+let bubbles = Array(19)
   .fill(0)
   .map((e, i) => {
     // создаем 33 частицы
